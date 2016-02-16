@@ -1,0 +1,29 @@
+
+.axislabel{
+   position: absolute;
+   top:80px;
+   left:850px;
+   background-color: grey;
+   height: 60px;
+   padding: 10px;
+   color: lightyellow;
+}
+
+.bar{
+   fill: lightblue;
+ }
+
+ .bar:hover{
+   fill: lightgreen;
+ }
+
+ .axis {
+   font: 16px sans-serif;
+ }
+
+ .axis path,
+ .axis line {
+   fill: none;
+   stroke: #000;
+   shape-rendering: crispEdges;
+ }

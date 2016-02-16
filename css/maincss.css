@@ -1,0 +1,36 @@
+a{
+  text-decoration: none;
+}
+
+#logo{
+  position: absolute;
+  top:150px;
+  left:650px;
+}
+
+body{
+  margin: 0;
+  background-color: pink;
+}
+
+h2{
+  font-size: 20px;
+  font-weight: normal;
+}
+
+header{
+  background-color: grey;
+  color:white;
+  margin: 0;
+  height: 50px;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-left: 300px;
+  font-weight:normal;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container{
+  width: 960px;
+  margin: 0 auto;
+}

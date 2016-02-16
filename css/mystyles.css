@@ -1,0 +1,28 @@
+.chart {
+    background-color: #eee;
+}
+
+.chart rect {
+	stroke: white ;
+    fill: navy;
+    stroke-width:4px;
+    width: 20px;
+}
+
+.axis {
+    shape-rendering: crispEdges;
+}
+
+.x.axis line {
+    stroke: black;
+
+}
+
+.y.axis line {
+    stroke: black;
+}
+
+.axis text {
+    font-size: 13px;
+
+}

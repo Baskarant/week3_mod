@@ -1,0 +1,26 @@
+[
+  {
+    "continent":"Africa",
+    "gdp":375.99
+  },
+  {
+    "continent":"Asia",
+    "gdp":19945.469999999998
+  },
+  {
+    "continent":"Australia",
+    "gdp":1589.12
+  },
+  {
+    "continent":"Europe",
+    "gdp":13049.74
+  },
+  {
+    "continent":"North America",
+    "gdp":19356.47
+  },
+  {
+    "continent":"South America",
+    "gdp":2955.3599999999997
+  }
+]

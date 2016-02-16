@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Population Growth Data for G20 Countries</title>
+    <link rel="stylesheet" href="css/mystyles2.css">
+</head>
+<style>
+.axislabel{
+   position: absolute;
+   top:80px;
+   left:600px;
+   background-color: lightgrey;
+   height: 60px;
+   padding: 10px;
+   color: green;
+}
+</style>
+<body>
+  <form>
+    <label><input type="radio" name="mode" value="grouped"> Grouped</label>
+    <label><input type="radio" name="mode" value="stacked" checked> Stacked</label>
+  </form>
+    <script src="js/jquery1.12.0.min.js"></script>
+    <script src="js/d3.js"></script>
+    <script src="js/script6.js"></script>
+    <div class="axislabel">
+      X Axis - Country Name <br>
+      Y Axis - Population Growth(Millions)
+    </div>
+</body>
+</html>
